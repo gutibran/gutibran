@@ -3,7 +3,7 @@
 I'm a aspiring electrical engineer. I am studying electrical engineering and applied mathematics at Texas State University in San Marcos, Texas. I like computers.
 
 ## Stats
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibrant&show_icons=true&theme=highcontrast)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibran&show_icons=true&theme=highcontrast)
 
 ## Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
