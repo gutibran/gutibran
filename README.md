@@ -4,6 +4,7 @@ I'm a aspiring electrical engineer. I am studying electrical engineering and app
 
 ## Stats
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibran&show_icons=true&theme=highcontrast)
+[![Brandon's GitHub Streak](https://streak-stats.demolab.com?user=gutibran&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 
 ## Languages and Tools
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px" width="32px" style="padding-right:10px;" />
