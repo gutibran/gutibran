@@ -6,7 +6,7 @@ I'm a aspiring electrical engineer. I am studying electrical engineering and app
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibran&show_icons=true&theme=highcontrast)
 
 ## Languages and Tools
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px" width="32px" style="padding-right:10px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="64px" width="64px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="32px" width="32px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="32px" width="32px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32px" width="32px" style="padding-right:10px;" />
