@@ -1,6 +1,6 @@
 # Brandon Gutierrez
 
-I'm an aspiring electrical engineer. I am studying electrical engineering and applied mathematics at Texas State University in San Marcos, Texas. I like computers.
+Studying electrical engineering and applied mathematics at Texas State University in San Marcos, Texas.
 
 ## Stats
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibran&show_icons=true&theme=highcontrast)
